@@ -31,4 +31,4 @@ if (day == 5){
 else{
   document.write("<th class='blue'>星期五</th>");
 }
-document.write("</tr>");
+document.write("</tr><tr><td>上午</td><td>7:10-7:50</td><td>早管</td><td>数学</td><td>语文</td><td>英语</td><td>数学</td><td>语文</td>");
