@@ -4,3 +4,6 @@ th.red{
 th.blue{
   background-color:lightblue;
 }
+td{
+  text-align:center;
+}
