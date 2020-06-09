@@ -4,6 +4,9 @@ th.red{
 th.blue{
   background-color:lightblue;
 }
+th.bblue{
+  background-color:blue;
+}
 td{
   text-align:center;
 }
