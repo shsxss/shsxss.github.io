@@ -36,3 +36,5 @@ document.write("<tr><td>上午</td><td>8:00-8:40</td><td>第一节</td><td>语�
 document.write("<tr><td>上午</td><td>9:10-9:50</td><td>第二节</td><td>劳技</td><td>数学</td><td>科学</td><td>语文</td><td>体育</td></tr>");
 document.write("<tr><td>上午</td><td>10:10-10:50</td><td>第三节</td><td>数学</td><td>科学</td><td>劳技</td><td>音乐</td><td>英语</td></tr>");
 document.write("<tr><td>上午</td><td>10:10-10:50</td><td>第四节</td><td>英语</td><td>信息科技</td><td>数学</td><td>体育</td><td>语文</td></tr>");
+document.write("<tr><td>中午</td><td>12:20-13:05</td><td>午管</td><td>英语</td><td>语文</td><td>数学</td><td>语文</td><td>英语</td></tr>");
+document.write("<tr><td>下午</td><td>13:15-13:55</td><td>第五节</td><td>体育</td><td>语文</td><td>英语</td><td>数学</td><td>地理</td></tr>");
