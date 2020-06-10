@@ -1,12 +1,15 @@
 th.red{
-  background-color:red;
+  background-color: red;
 }
 th.blue{
-  background-color:lightblue;
+  background-color: lightblue;
 }
 th.bblue{
-  background-color:blue;
+  background-color: blue;
 }
 td{
-  text-align:center;
+  text-align: center;
+}
+div{
+  positive: absolute;
 }
