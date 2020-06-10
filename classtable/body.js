@@ -38,3 +38,4 @@ document.write("<tr><td>上午</td><td>10:10-10:50</td><td>第三节</td><td>数
 document.write("<tr><td>上午</td><td>10:10-10:50</td><td>第四节</td><td>英语</td><td>信息科技</td><td>数学</td><td>体育</td><td>语文</td></tr>");
 document.write("<tr><td>中午</td><td>12:20-13:05</td><td>午管</td><td>英语</td><td>语文</td><td>数学</td><td>语文</td><td>英语</td></tr>");
 document.write("<tr><td>下午</td><td>13:15-13:55</td><td>第五节</td><td>体育</td><td>语文</td><td>英语</td><td>数学</td><td>地理</td></tr>");
+document.write("</table></div>");
