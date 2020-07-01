@@ -1,0 +1,27 @@
+th.red{
+  background-color: red;
+}
+th.blue{
+  background-color: lightblue;
+}
+th.bblue{
+  background-color: blue;
+}
+td{
+  text-align: center;
+}
+body{
+  background-color: #B9A763;
+}
+#table{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  background-color: #EEEEEE;
+  border-radius: 50px;
+  padding: 50px 100px;
+  text-align: center;
+  width: 50%;
+  box-shadow: 5px 5px 5px #444;
+}
