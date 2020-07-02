@@ -13,7 +13,7 @@ td{
 body{
   background-color: #B9A763;
 }
-table{
+div{
   position: absolute;
   top: 50%;
   left: 50%;
@@ -25,6 +25,6 @@ table{
   box-shadow: 5px 5px 5px #444;
   cursor:default;
 }
-p{
+p.center{
   text-align: center;
 }
