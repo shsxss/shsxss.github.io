@@ -43,4 +43,4 @@ document.write("<tr><td>下午</td><td>15:00-15:40</td><td>第七节</td><td>地
 document.write("<tr><td>下午</td><td>15:50-16:30</td><td>第八节</td><td>拓展</td><td>数学</td><td>数学</td><td>机器人</td><td></td></tr>");
 document.write("<tr><td>下午</td><td>16:40-17:15</td><td>晚管</td><td>语文</td><td>数学</td><td>英语</td><td>英语</td><td></td></tr>");
 document.write("</table>");
-document.write("<p class='center'>拓展课<input type='text' name='拓展课' value='拓展课'><br>*隔一周一次外教课 **单周语文，双周数学</p></div>");
+document.write("<p class='center'>拓展课：<input type='text' name='拓展课' value='拓展课'><br>*隔一周一次外教课 **单周语文，双周数学</p></div>");
