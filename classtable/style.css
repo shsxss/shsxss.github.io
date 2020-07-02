@@ -13,7 +13,7 @@ td{
 body{
   background-color: #B9A763;
 }
-#table{
+table{
   position: absolute;
   top: 50%;
   left: 50%;
@@ -24,4 +24,7 @@ body{
   text-align: center;
   box-shadow: 5px 5px 5px #444;
   cursor:default;
+}
+p{
+  text-align: center;
 }
