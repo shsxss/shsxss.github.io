@@ -15,8 +15,8 @@ body{
 }
 #table{
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 75%;
+  left: 75%;
   transform: translateX(-50%) translateY(-50%);
   background-color: #EEEEEE;
   border-radius: 50px;
@@ -24,4 +24,5 @@ body{
   text-align: center;
   width: 50%;
   box-shadow: 5px 5px 5px #444;
+  cursor:default
 }
