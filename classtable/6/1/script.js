@@ -1,6 +1,6 @@
 var w = new Date();
 var day = w.getDay();
-document.write("<table border='3'><caption><h2>三新学校六年级上学期</h2><h1>课程表</h1></caption><tr><th class='bblue'>时段</th><th class='bblue'>时间</th><th class='bblue'>节数</th>");
+document.write("<div><table border='3'><caption><h2>三新学校六年级上学期</h2><h1>课程表</h1></caption><tr><th class='bblue'>时段</th><th class='bblue'>时间</th><th class='bblue'>节数</th>");
 if (day == 1){
   document.write("<th class='red'>星期一</th>");
 }
@@ -43,4 +43,4 @@ document.write("<tr><td>下午</td><td>15:00-15:40</td><td>第七节</td><td>地
 document.write("<tr><td>下午</td><td>15:50-16:30</td><td>第八节</td><td>拓展</td><td>数学</td><td>数学</td><td>机器人</td><td></td></tr>");
 document.write("<tr><td>下午</td><td>16:40-17:15</td><td>晚管</td><td>语文</td><td>数学</td><td>英语</td><td>英语</td><td></td></tr>");
 document.write("</table>");
-document.write("<p>拓展课<input type='text' name='拓展课' value='拓展课'><br>*隔一周一次外教课 **单周语文，双周数学</p>");
+document.write("<p class='center'>拓展课<input type='text' name='拓展课' value='拓展课'><br>*隔一周一次外教课 **单周语文，双周数学</p></div>");
