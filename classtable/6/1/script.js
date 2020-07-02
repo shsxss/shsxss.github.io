@@ -1,6 +1,6 @@
 var w = new Date();
 var day = w.getDay();
-document.write("<div id='table'><table border='3'><caption><h1>课程表</h1></caption><tr><th class='bblue'>时段</th><th class='bblue'>时间</th><th class='bblue'>节数</th>");
+document.write("<table border='3' id='table'><caption><h1>课程表</h1></caption><tr><th class='bblue'>时段</th><th class='bblue'>时间</th><th class='bblue'>节数</th>");
 if (day == 1){
   document.write("<th class='red'>星期一</th>");
 }
@@ -38,4 +38,4 @@ document.write("<tr><td>上午</td><td>10:10-10:50</td><td>第三节</td><td>数
 document.write("<tr><td>上午</td><td>10:10-10:50</td><td>第四节</td><td>英语</td><td>信息科技</td><td>数学</td><td>体育</td><td>语文</td></tr>");
 document.write("<tr><td>中午</td><td>12:20-13:05</td><td>午管</td><td>英语</td><td>语文</td><td>数学</td><td>语文</td><td>英语</td></tr>");
 document.write("<tr><td>下午</td><td>13:15-13:55</td><td>第五节</td><td>体育</td><td>阅读</td><td>英语</td><td>数学</td><td>地理</td></tr>");
-document.write("</table></div>");
+document.write("</table>");
