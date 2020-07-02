@@ -15,14 +15,14 @@ body{
 }
 #table{
   position: absolute;
-  top: 75%;
-  left: 75%;
+  top: 50%;
+  left: 50%;
   transform: translateX(-50%) translateY(-50%);
   background-color: #EEEEEE;
   border-radius: 50px;
-  padding: 50px 100px;
+  padding: 10px 10px;
   text-align: center;
-  width: 50%;
+  width: 100%;
   box-shadow: 5px 5px 5px #444;
-  cursor:default
+  cursor:default;
 }
