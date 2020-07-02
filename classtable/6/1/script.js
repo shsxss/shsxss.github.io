@@ -1,6 +1,6 @@
 var w = new Date();
 var day = w.getDay();
-var inp = study.value();
+var inp = classv.value();
 document.write("<div><table border='3'><caption><h2>三新学校六年级上学期</h2><h1>课程表</h1></caption><tr><th class='bblue'>时段</th><th class='bblue'>时间</th><th class='bblue'>节数</th>");
 if (day == 1){
   document.write("<th class='red'>星期一</th>");
