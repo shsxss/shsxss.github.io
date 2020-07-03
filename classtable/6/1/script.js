@@ -39,7 +39,7 @@ document.write("<tr class='am'><td>上午</td><td>11:05-11:45</td><td>第四节<
 document.write("<tr class='m'><td>中午</td><td>12:20-13:05</td><td>午管</td><td>英语</td><td>语文</td><td>数学</td><td>语文</td><td>英语*</td></tr>");
 document.write("<tr class='pm'><td>下午</td><td>13:15-13:55</td><td>第五节</td><td>体育</td><td>阅读</td><td>英语</td><td>数学</td><td>地理</td></tr>");
 document.write("<tr class='pm'><td>下午</td><td>14:05-14:45</td><td>第六节</td><td>道德与法治</td><td>英语</td><td>语文</td><td>信息科技</td><td>队活动</td></tr>");
-document.write("<tr class='pm'><td>下午</td><td>15:00-15:40</td><td>第七节</td><td>地理</td><td>体活</td><td>美术</td><td>体育</td><td>语文/数学**</td></tr>");
+document.write("<tr class='pm'><td>下午</td><td>15:00-15:40</td><td>第七节</td><td>地理</td><td>体活</td><td>美术</td><td>体活</td><td>语文/数学**</td></tr>");
 document.write("<tr class='pm'><td>下午</td><td>15:50-16:30</td><td>第八节</td><td>拓展</td><td>数学</td><td>数学</td><td>机器人</td><td></td></tr>");
 document.write("<tr class='pm'><td>下午</td><td>16:40-17:15</td><td>晚管</td><td>语文</td><td>数学</td><td>英语</td><td>英语</td><td></td></tr>");
 document.write("</table>");
