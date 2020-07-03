@@ -28,3 +28,12 @@ div{
 p.center{
   text-align: center;
 }
+tr.am{
+  background-color: moccasin;
+}
+tr.m{
+  background-color: oldLace;
+}
+tr.pm{
+  background-color: palegoldenrod;
+}
